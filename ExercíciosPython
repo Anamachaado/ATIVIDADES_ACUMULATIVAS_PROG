@@ -2,45 +2,67 @@
 
 EXERCÍCIOS COMPREENSÃO PYTHON ( Apostila: 253 - 272)
 
-253. C) Uma vez que Python se configura por uma linguagem simples, como por exemplo, opera sem a declaração de de tipos diretamente.   
+253. Não é um objetivo primário da linguagem de programação Python ser:
+C) Uma vez que Python se configura por uma linguagem simples, como por exemplo, opera sem a declaração de de tipos diretamente.   
 
-254. C) Seu código-fonte é publicamente acessível, pode ser modificado e distribuído livremente.
+254. Não é característica da linguagem de programação Python:
+C) Seu código-fonte é publicamente acessível, pode ser modificado e distribuído livremente.
 
-255. C) Pois a linguagem utiliza apenas do tipo float para representar a 
+255. Não é uma declaração tipo básico suportado pela linguagem de programação Python:
+C) Pois a linguagem utiliza apenas do tipo float para representar a 
 precisão de casas decimais, uma vez que existe a função “.format” para restringir
 a quantidade de casas representadas.
 
-256. D) Todas são válidas. A opção 'A' atribui à variável um valor inteiro, 'B' atribui um valor de ponto flutuante e 'C' atribui o valor de string à variável.
+256. Não é uma atribuição de variável válida em Python: 
+D) Todas são válidas. A opção 'A' atribui à variável um valor inteiro, 'B' atribui um valor de ponto flutuante e 'C' atribui o valor de string à variável.
 
-257. B) Em Python, valores booleanos, são representados pela primeira letra maiúscula.
+257. É um valor booleano em Python:
+B) Em Python, valores booleanos, são representados pela primeira letra maiúscula.
 
-258. A) Diferente do C++, Python imprime elementos utilizando a função print("").
+258. É um exemplo de impressão de valor na tela em Python:
+A) Diferente do C++, Python imprime elementos utilizando a função print("").
 
-259. A) Já que a entrada do usuário é sempre uma string, o tipo float converte a entrada em um ponto flutuante
+259. É uma chamada função que retorna uma entrada do usuário no formato inteiro em Python e
+armazena:
+A) Já que a entrada do usuário é sempre uma string, o tipo float converte a entrada em um ponto flutuante
 e o tipo inteiro é incluído para atribuir à variável apenas a parte inteira.
 
-260. D) Função padrão da linguagem Python que determina o tamanho de uma variável.
+260. É uma função/método que retorna o tamanho de um texto da variável val:
+D) Função padrão da linguagem Python que determina o tamanho de uma variável.
 
-261. C) A função 'SPLIT' retorna uma string transformada em lista, conhecida como vetor em C++.
+261. É um método que retorna uma string val transformada em lista:
+C) A função 'SPLIT' retorna uma string transformada em lista, conhecida como vetor em C++.
 
-262. D) O Método 'UPPER' retorna a string com letras maiúsculas, 'LOWER' com letras minúsculas e 'CAPITALIZE' transforma as iniciais da string em letras maiúsculas.
+262. É um método que não retorna uma string val transformada:
+D) O Método 'UPPER' retorna a string com letras maiúsculas, 'LOWER' com letras minúsculas e 'CAPITALIZE' transforma as iniciais da string em letras maiúsculas.
 
-263. D) Uma vez que todas realizam uma verificação. 'ISALPHA' verifica se é alfabético, 'ISALNUM' se é numérico e 'STARTSWITH' se a string inicia com determinada sequência. 
+263. É um método cujo retorno para uma string val não é booleano:
+D) Uma vez que todas realizam uma verificação. 'ISALPHA' verifica se é alfabético, 'ISALNUM' se é numérico e 'STARTSWITH' se a string inicia com determinada sequência. 
 
-264. A) A função substitui (em uma possível lista) a string gatão por cachorrão. 
+264. É um método que retorna o texto substituindo “gatão” por “cachorrão” numa string val:
+A) A função substitui (em uma possível lista) a string gatão por cachorrão. 
 
-265. B) 'RSTRIP' remove espaços em branco ao lado direito das strings.
+265. É um método que retorna um texto contido numa string val potencialmente removendo
+espaços:
+B) 'RSTRIP' remove espaços em branco ao lado direito das strings.
 
-266. B) O comando acessa o índice 2 (elemento 'C') da lista [a, b, c].
+266. Qual é o retorno do comando ["a", "b", "c"][2]?
+B) O comando acessa o índice 2 (elemento 'C') da lista [a, b, c].
 
-267. A) O comando [:2] pode ser interpretado como "antes do indíce 2".
+267. Qual é o retorno do comando ["a", "b", "c"][:2]?
+A) O comando [:2] pode ser interpretado como "antes do indíce 2".
 
-268. B) O comando pede as letras a partir do índice 5 até antes do índice 10 (índice 9).
+268. Qual é o retorno do comando "Lázaro é super legal!"[5:10]?
+B) O comando pede as letras a partir do índice 5 até antes do índice 10 (índice 9).
 
-269. D) Porque a operação é 5 elevado a 3, que é 125.
+269. Qual é a o retorno do comando 5 ** 3?
+D) Porque a operação é 5 elevado a 3, que é 125.
 
-270. A) Pois True vale 1 e False vale 0, então 1*0 é 0.
+270. Qual é o retorno do comando True * False?
+A) Pois True vale 1 e False vale 0, então 1*0 é 0.
 
-271. C) Pois em python, True é interpretado como 1 e False como 0, logo True + True e igual a 1 + 1  = 2.
+271. Qual é o retorno do comando True + True?
+C) Pois em python, True é interpretado como 1 e False como 0, logo True + True e igual a 1 + 1  = 2.
 
-272. B) Tupla, Pois não é possível remover, adicionar, alterar os elementos de uma tupla.
+272. Uma lista imutável em Python é denominada:
+B) Tupla, Pois não é possível remover, adicionar, alterar os elementos de uma tupla.
