@@ -1,0 +1,46 @@
+#Alunos(as): Jéssica Martins, Ana Luíza Ferreira e Guilherme Moreira.
+
+EXERCÍCIOS COMPREENSÃO PYTHON ( Apostila: 253 - 272)
+
+253. C) Uma vez que Python se configura por uma linguagem simples, como por exemplo, opera sem a declaração de de tipos diretamente.   
+
+254. C) Seu código-fonte é publicamente acessível, pode ser modificado e distribuído livremente.
+
+255. C) Pois a linguagem utiliza apenas do tipo float para representar a 
+precisão de casas decimais, uma vez que existe a função “.format” para restringir
+a quantidade de casas representadas.
+
+256. D) Todas são válidas. A opção 'A' atribui à variável um valor inteiro, 'B' atribui um valor de ponto flutuante e 'C' atribui o valor de string à variável.
+
+257. B) Em Python, valores booleanos, são representados pela primeira letra maiúscula.
+
+258. A) Diferente do C++, Python imprime elementos utilizando a função print("").
+
+259. A) Já que a entrada do usuário é sempre uma string, o tipo float converte a entrada em um ponto flutuante
+e o tipo inteiro é incluído para atribuir à variável apenas a parte inteira.
+
+260. D) Função padrão da linguagem Python que determina o tamanho de uma variável.
+
+261. D) A função 'SPLIT' retorna uma string transformada em lista, conhecida como vetor em C++.
+
+262. D) O Método 'UPPER' retorna a string com letras maiúsculas, 'LOWER' com letras minúsculas e 'CAPITALIZE' transforma as iniciais da string em letras maiúsculas.
+
+263. D) Uma vez que todas realizam uma verificação. 'ISALPHA' verifica se é alfabético, 'ISALNUM' se é numérico e 'STARTSWITH' se a string inicia com determinada sequência. 
+
+264. A) A função substitui (em uma possível lista) a string gatão por cachorrão. 
+
+265. B) 'RSTRIP' remove espaços em branco ao lado direito das strings.
+
+266. B) O comando acessa o índice 2 (elemento 'C') da lista [a, b, c].
+
+267. A) O comando [:2] pode ser interpretado como "antes do indíce 2".
+
+268. B) O comando pede as letras a partir do índice 5 até antes do índice 10 (índice 9).
+
+269. D) Porque a operação é 5 elevado a 3, que é 125.
+
+270. A) Pois True vale 1 e False vale 0, então 1*0 é 0.
+
+271. C) Pois em python, True é interpretado como 1 e False como 0, logo True + True e igual a 1 + 1  = 2.
+
+272. B) Tupla, Pois não é possível remover, adicionar, alterar os elementos de uma tupla.
